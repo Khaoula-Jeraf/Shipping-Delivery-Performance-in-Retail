@@ -8,7 +8,6 @@ In a context where customers are increasingly impatient and delivery expectation
 
 The objective of this project is to **analyze shipment performance**, identify **logistics risks**, and provide **data-driven insights** to support operational and strategic decision-making.
 
----
 
 ## Business Context & Problem Statement
 
@@ -25,7 +24,6 @@ Yet, several critical questions remain unanswered:
 
 This dashboard addresses these challenges by transforming raw data into **actionable insights**.
 
----
 
 ## Key Business Questions Answered
 
@@ -41,7 +39,6 @@ This dashboard addresses these challenges by transforming raw data into **action
 4. **Is delivery performance improving year over year?**  
    → Measuring the impact of logistics initiatives over time.
 
----
 
 ## Key Insights
 - Faster shipping modes are **not always the most profitable**.
@@ -49,14 +46,12 @@ This dashboard addresses these challenges by transforming raw data into **action
 - Logistics risks are **unevenly distributed geographically**, requiring targeted actions.
 - Delivery performance trends provide valuable signals for continuous improvement.
 
----
 
 ## Technical Stack 
 - **SQL Server (SSMS)** – Data preparation 
 - **Power BI** – Data modeling, DAX measures, and interactive dashboards  
 - **DAX** – KPI calculations (delivery time, YoY analysis, profitability)  
 
----
 
 ## KPIs Used
 - Total Sales  
@@ -65,7 +60,6 @@ This dashboard addresses these challenges by transforming raw data into **action
 - Average Delivery Time (Days)    
 - Year-over-Year (YoY) Performance Indicators  
 
----
 
 ## BI Approach
 This is not just a reporting project.  
@@ -74,4 +68,13 @@ It follows a **business-oriented BI approach**:
 - Define **relevant KPIs** aligned with decision-making  
 - Build dashboards as **decision-support tools**, not data catalogs  
 
+## 👋 About
+🤝 **Khaoula Jeraf**  
+Data Analyst with a **business partner mindset**.  
+I design dashboards that prioritize **clarity, reliability, and decision-making**, turning data into a concrete performance lever.
+🔗 LinkedIN Profile :https://www.linkedin.com/in/khaoula-jeraf-5a7bb81ab/
+📩 : khaoula.dataconsulting@gmail.com
+
+## 📬 Feedback & Discussion
+Feel free to explore the project and share feedback.  
 
