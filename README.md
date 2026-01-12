@@ -58,7 +58,10 @@ This dashboard addresses these challenges by transforming raw data into **action
 - Total Shipments  
 - Shipment Returns  
 - Average Delivery Time (Days)    
-- Year-over-Year (YoY) Performance Indicators  
+- Year-over-Year (YoY) Performance Indicators
+
+  <img width="1304" height="860" alt="image" src="https://github.com/user-attachments/assets/bb57867a-79a2-40f2-9842-b073a89ff57b" />
+
 
 
 ## BI Approach
@@ -77,4 +80,5 @@ I design dashboards that prioritize **clarity, reliability, and decision-making*
 
 ## 📬 Feedback & Discussion
 Feel free to explore the project and share feedback.  
+
 
