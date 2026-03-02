@@ -18,6 +18,9 @@ Without visibility, growth can quietly erode profitability.
 
 ## What This Solution Brings
 
+<img width="1317" height="866" alt="Report" src="https://github.com/user-attachments/assets/57d98d87-25ae-4cb3-8f72-299734599a63" />
+
+
 This analysis provides clear, decision-ready visibility into:
 
 - Which shipping modes truly balance speed and profitability  
@@ -65,3 +68,4 @@ let’s connect.
 
 Curious about applying this approach to your business?  
 Feel free to reach out or explore the full project.
+
